@@ -1,5 +1,5 @@
 ---
-title: jQuery Fixed Navigation
+title: jQuery Fixed Navigation UI
 date: 2022-05-28 12:50:38
 tags:
 categories: jQuery

@@ -1,5 +1,5 @@
 ---
-title: var,let,const의 차이점과 hoisting
+title: hoisting 개념에 따른 각 변수 선언의 차이점
 date: 2022-09-17 16:54:00
 tags: hoisting
 categories: javascript

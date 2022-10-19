@@ -1,7 +1,7 @@
 ---
-title: 1차 project 회고
+title: 1st project woosop
 date: 2022-08-27 19:00:00
-tags:
+tags: teamproject
 categories:
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 2차 project 회고
+title: 2nd project WnB
 date: 2022-09-08 19:00:00
-tags:
+tags: teamproject
 ---
 
 ## 2차 project 회고

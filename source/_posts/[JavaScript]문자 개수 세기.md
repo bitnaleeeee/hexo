@@ -1,5 +1,5 @@
 ---
-title: JavaScript문자 개수 세기
+title: JavaScript 특정 값의 수를 구하는 함수
 date: 2022-04-13 20:03:59
 tags:
 categories: javascript

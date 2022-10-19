@@ -1,6 +1,6 @@
 ---
-title: Jquery_modal window
-date: 2022-05-28 12:50:38
+title: jQuery modal window UI
+date: 2022-04-01 12:50:38
 tags:
 categories: jQuery
 ---

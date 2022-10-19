@@ -1,5 +1,5 @@
 ---
-title: jQuery hamburger menu
+title: jQuery hamburger menu UI
 date: 2022-05-28 12:50:38
 tags:
 categories: jQuery

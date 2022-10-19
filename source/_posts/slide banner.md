@@ -1,5 +1,5 @@
 ---
-title: Jquery:slide banner
+title: jQuery Slide banner UI
 date: 2022-05-25 21:08:51
 tags:
 categories: jQuery

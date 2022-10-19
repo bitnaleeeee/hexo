@@ -1,5 +1,5 @@
 ---
-title: TO DO LIST
+title: jQuery todolist UI
 date: 2022-06-28 10:34
 tags:
 categories: jQuery

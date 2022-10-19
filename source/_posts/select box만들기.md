@@ -1,5 +1,5 @@
 ---
-title: jQuery Select Box
+title: jQuery Select Box UI
 date: 2022-04-21 20:37:08
 tags:
 categories: jQuery

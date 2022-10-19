@@ -1,5 +1,5 @@
 ---
-title: jQuery 생년월일 Select Box
+title: jQuery - 생년월일 Select Box UI
 date: 2022-06-02 16:00:08
 tags:
 categories: jQuery

@@ -1,5 +1,5 @@
 ---
-title: JavaScript 객체(object)
+title: JavaScript 객체(Object)
 date: 2022-07-28 12:00:59
 tags: object
 categories: javascript

@@ -1,5 +1,5 @@
 ---
-title: jQuery Agree checkbox
+title: jQuery agree Checkbox UI
 date: 2022-05-16 20:08:38
 tags:
 categories: jQuery
