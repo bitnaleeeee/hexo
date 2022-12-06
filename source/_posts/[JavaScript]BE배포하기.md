@@ -35,7 +35,7 @@ EC2 Instances 페이지로 이동 후 Launch Instances 을 클릭하여 EC2 Inst
 네트워크 편집 버튼을 누른 후 위와 같이 설정해 주고 퍼블릭IP는 활성화를 선택해준다.
 
 ![aws4파일](../images/aws4.png)
-이후 Launch Instance 를 클릭하여 EC2 Instance를 실행해주었을때 위와 같이 인스턴스 상태에 실행중이라고 뜬다면 성공이다.
+이후 Launch Instance 를 클릭하여 EC2 Instance 를 실행해주었을때 위와 같이 인스턴스 상태에 실행중이라고 뜬다면 성공이다.
 
 ### SSH를 이용한 EC2 Instance 접속
 먼저 pem 파일이 위치한 디렉토리로 이동한다.
